@@ -1,0 +1,5 @@
+Component: main
+Origin: Aleph.im
+Label: Aleph.im
+Architecture: amd64
+Description: Aleph Cloud CLI packages

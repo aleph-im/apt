@@ -1,0 +1,7 @@
+Origin: Aleph.im
+Label: Aleph.im
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Aleph Cloud CLI packages
+SignWith: yes

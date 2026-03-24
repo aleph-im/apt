@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Aleph.im
+Label: Aleph.im
+Codename: stable
+Date: Tue, 24 Mar 2026 08:47:17 UTC
+Architectures: amd64
+Components: main
+Description: Aleph Cloud CLI packages
+MD5Sum:
+ 5ce212a68fda75bc180da31268e83771 540 main/binary-amd64/Packages
+ f30c2b3034758ced1bd57d073b9fdeb9 398 main/binary-amd64/Packages.gz
+ e156efe9444d56ee8887d07702872bf5 107 main/binary-amd64/Release
+SHA1:
+ 1f3c940c62acc2c82504c5698ff495092925d714 540 main/binary-amd64/Packages
+ 607e7b6617423112484e1d67a52d1cb6f1850dfc 398 main/binary-amd64/Packages.gz
+ 9886135b2b1177dddcffbbf71b1a45121f859f2d 107 main/binary-amd64/Release
+SHA256:
+ 762f539ec91cea52cc9c82eefeab3cb66fa211021684d9acb01ca11f770ad67a 540 main/binary-amd64/Packages
+ d6ec43a66e3175ffbaa78942968c8e14bbcb363d9f6970ae7a9a86c523af0f77 398 main/binary-amd64/Packages.gz
+ 512f078fe75b63c8920805a25a91245b16ac49a1a89c7216373d0d03845ca03d 107 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQbS66G+XFUuWmVEeAarw8LJGPWZwUCacJPlQAKCRAarw8LJGPW
+Z4bzAQD9w6fbVP9f/x4P3a3dHSJFrsHI3qRweT9ggo4grUmuUQEA3wPKDOGN76nF
+MSWBe2d1l6HHJmP/1b7GXgGOsjDrKQ8=
+=id9m
+-----END PGP SIGNATURE-----
