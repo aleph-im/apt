@@ -4,26 +4,26 @@ Hash: SHA512
 Origin: Aleph.im
 Label: Aleph.im
 Codename: stable
-Date: Mon, 25 May 2026 22:16:51 UTC
+Date: Wed, 27 May 2026 14:05:51 UTC
 Architectures: amd64
 Components: main
 Description: Aleph Cloud CLI packages
 MD5Sum:
- f92d144d426a0ea1dc2ecb3469fc6227 542 main/binary-amd64/Packages
- 805ffa44808e8d94b4d242fa3b62f86a 399 main/binary-amd64/Packages.gz
+ 4ee7070aaf4d49e9172dcbdb360d9e45 542 main/binary-amd64/Packages
+ 6cf159ec67886edfc04b8121138f7a74 400 main/binary-amd64/Packages.gz
  e156efe9444d56ee8887d07702872bf5 107 main/binary-amd64/Release
 SHA1:
- 8ec88b6cecabb79a054e268a9f56807222988133 542 main/binary-amd64/Packages
- e847cad4f88a6d13004d09c480cd02ae5eb4056b 399 main/binary-amd64/Packages.gz
+ edd5ce5fc47fbb99ae8c30739c15555aa46c3625 542 main/binary-amd64/Packages
+ 15857c781451761bc0d97712e9f38048ac553242 400 main/binary-amd64/Packages.gz
  9886135b2b1177dddcffbbf71b1a45121f859f2d 107 main/binary-amd64/Release
 SHA256:
- 10d86138bfecbf13d17508ce11cbada7800a6ee29aa30eebb2eb7f21a4b90af4 542 main/binary-amd64/Packages
- 2dc7b460aad47555f01e01114442ec33cfee89341ba8d1c7471580db6a6ef328 399 main/binary-amd64/Packages.gz
+ cc3eed083161feb682abc1493786692ddbd3b0706c6675201a1abe605cd3311f 542 main/binary-amd64/Packages
+ 7c74d2605d3eeae701eb959b6f1e38b9e89372ac9f08082cdb3c796e1ee378c1 400 main/binary-amd64/Packages.gz
  512f078fe75b63c8920805a25a91245b16ac49a1a89c7216373d0d03845ca03d 107 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQbS66G+XFUuWmVEeAarw8LJGPWZwUCahTKUwAKCRAarw8LJGPW
-Z7jCAPsEvsB1dyv0Zf2RIZ+qPEnqSmMAlqIiXP8o/13a+G0vdwD/ecj1cQRS7chf
-qmQeixkK7Xqjx3FUuMThOHC3srV/yQ4=
-=x0rV
+iHUEARYKAB0WIQQbS66G+XFUuWmVEeAarw8LJGPWZwUCahb6PwAKCRAarw8LJGPW
+Z+/oAQCDixVNosqIyVOjGJdNmrcY4CrUnnObHQymh41XE9+QBwEAlYnUBgdt/elC
+H+k6uBE+kpPsh0mpgPX7xKJSBqtpFAk=
+=Khlh
 -----END PGP SIGNATURE-----
