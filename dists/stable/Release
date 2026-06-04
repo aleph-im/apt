@@ -1,19 +1,19 @@
 Origin: Aleph.im
 Label: Aleph.im
 Codename: stable
-Date: Thu, 04 Jun 2026 13:05:09 UTC
+Date: Thu, 04 Jun 2026 23:26:11 UTC
 Architectures: amd64
 Components: main
 Description: Aleph Cloud CLI packages
 MD5Sum:
- ebc481fbb7b8860fa966e723f822ed1a 542 main/binary-amd64/Packages
- 6fe8baa218fd45dbc24e4b020a2cc716 400 main/binary-amd64/Packages.gz
+ 5bbcef9241b1bbc8f7dc4c86e464d607 542 main/binary-amd64/Packages
+ bba93d0b85af1f1cb5063a7a38f39ac7 401 main/binary-amd64/Packages.gz
  e156efe9444d56ee8887d07702872bf5 107 main/binary-amd64/Release
 SHA1:
- bab056730970e7a98d4898b1a7ce139b6ec7291c 542 main/binary-amd64/Packages
- 8f6378da96e1751f479664686d8566a092a1aec0 400 main/binary-amd64/Packages.gz
+ da8a14481d38970fae0240fd9648cca2d28277da 542 main/binary-amd64/Packages
+ d3aae1bfdeb81d79a1d7888eb9f18fb973cc91d1 401 main/binary-amd64/Packages.gz
  9886135b2b1177dddcffbbf71b1a45121f859f2d 107 main/binary-amd64/Release
 SHA256:
- 96f043a446558b58a9fbe4cb50dc528101d7099a29af80d8dc11f5a18a4c1b1c 542 main/binary-amd64/Packages
- ace926066676c68a6f9c33e69618f79382e84afcf497b2912c7609d42a9837cf 400 main/binary-amd64/Packages.gz
+ 6441d0799d8fb50449c8e29a88222f79c6da14edbef8e0147376221b4ab8e72d 542 main/binary-amd64/Packages
+ 0152ccd10f3e3ef937ce3901d92a4f984dbd29e74925a3730ae0be3b9d379d2f 401 main/binary-amd64/Packages.gz
  512f078fe75b63c8920805a25a91245b16ac49a1a89c7216373d0d03845ca03d 107 main/binary-amd64/Release
