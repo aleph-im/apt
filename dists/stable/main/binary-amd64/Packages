@@ -1,16 +1,16 @@
 Package: aleph-cli
-Version: 0.13.1-1
+Version: 0.13.2-1
 Architecture: amd64
 Homepage: https://github.com/aleph-im/aleph-rs
 Maintainer: Aleph.im <contact@aleph.im>
-Installed-Size: 21587
+Installed-Size: 21592
 Depends: libc6 (>= 2.39), libssl3t64 (>= 3.0.0)
 Priority: optional
 Section: utils
-Filename: pool/main/a/aleph-cli/aleph-cli_0.13.1-1_amd64.deb
-Size: 5556700
-SHA256: 9c367186282ae55dc9f34cd71311c1e4c151ffd08171f144434b03fd1248ddc8
-SHA1: 84d09807d7db7859572c2937860555e9a8a09f6f
-MD5sum: 51addaa72ad35b318435f2a6c5f086dd
+Filename: pool/main/a/aleph-cli/aleph-cli_0.13.2-1_amd64.deb
+Size: 5556028
+SHA256: df8b16cac88aa34ca314baf916071cc0f065800499a2d657d4833b3d5baebc25
+SHA1: 2f9927a5fb5039eb5597acc4194627cec0c92feb
+MD5sum: 68551da424f17b5a7c0a334b565e7311
 Description: Minimal CLI for Aleph Cloud, built in Rust.
 
